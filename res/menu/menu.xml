@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_nowa_gra" android:title="Nowa Gra"></item>
+    <item android:id="@+id/menu_kontynuuj" android:title="Kontynuuj"></item>
+    <item android:id="@+id/menu_wczytaj" android:title="Wczytaj"></item>
+    <item android:id="@+id/menu_ustawienia" android:title="Ustawienia"></item>
+</menu>
